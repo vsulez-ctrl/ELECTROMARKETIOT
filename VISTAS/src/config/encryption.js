@@ -1,0 +1,1 @@
+export const ENCRYPTION_KEY = 'electromarket-frontend-2025-secure-key';
